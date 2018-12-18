@@ -1,0 +1,9 @@
+
+// Download all empty files
+// Atom and live server
+
+// Get particles.js to work (snow.json)
+// Have students make another JSON and change values as they want
+// Switch back and forth between those files
+
+// 
