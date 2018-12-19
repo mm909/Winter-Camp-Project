@@ -40,4 +40,34 @@ jQuery(document).ready(function() {
     loop: true,
     cursorChar: ' ',
   });
+  var title4 = new Typed('#cardTitle4', {
+    strings: [
+      'Another Cool Picture!',
+    ],
+    typeSpeed: 30,
+    backSpeed: 50,
+    backDelay: 1500,
+    loop: true,
+    cursorChar: ' ',
+  });
+  var title5 = new Typed('#cardTitle5', {
+    strings: [
+      'Another Cool Picture!',
+    ],
+    typeSpeed: 30,
+    backSpeed: 50,
+    backDelay: 1500,
+    loop: true,
+    cursorChar: ' ',
+  });
+  var title6 = new Typed('#cardTitle6', {
+    strings: [
+      'Another Cool Picture!',
+    ],
+    typeSpeed: 30,
+    backSpeed: 50,
+    backDelay: 1500,
+    loop: true,
+    cursorChar: ' ',
+  });
 });

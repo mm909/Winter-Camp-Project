@@ -1,9 +1,23 @@
+// Needed software
+  // Github desktop
+  // Atom and Live server
 
-// Download all empty files
+// Older groups
+  // Get signed up with github
+  // Create Repos
+
+// Download all files
 // Atom and live server
 
 // Get particles.js to work (snow.json)
+  // Walk through snow.json file
 // Have students make another JSON and change values as they want
 // Switch back and forth between those files
 
-// 
+// Get typed.js to work
+  // Walk through type.js file
+  // Change text
+
+// Make boot strap cards
+  // Add images and links
+  // Add type.js to it
