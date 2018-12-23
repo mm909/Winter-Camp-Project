@@ -12,7 +12,7 @@ jQuery(document).ready(function() {
   });
   var title1 = new Typed('#cardTitle1', {
     strings: [
-      'A cool picture',
+      'Older',
     ],
     typeSpeed: 30,
     backSpeed: 50,
@@ -22,7 +22,7 @@ jQuery(document).ready(function() {
   });
   var title2 = new Typed('#cardTitle2', {
     strings: [
-      'My p5.js sketch',
+      'Middle',
     ],
     typeSpeed: 30,
     backSpeed: 50,
@@ -32,7 +32,7 @@ jQuery(document).ready(function() {
   });
   var title3 = new Typed('#cardTitle3', {
     strings: [
-      'Another Cool Picture!',
+      'Younger',
     ],
     typeSpeed: 30,
     backSpeed: 50,

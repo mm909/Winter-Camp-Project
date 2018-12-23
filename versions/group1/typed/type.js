@@ -12,7 +12,7 @@ jQuery(document).ready(function() {
   });
   var title1 = new Typed('#cardTitle1', {
     strings: [
-      'A cool picture',
+      'Fortnite!!!!!!!!',
     ],
     typeSpeed: 30,
     backSpeed: 50,
